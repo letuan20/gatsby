@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: github
   repo: letuan20/gatsby
   branch: master
   
